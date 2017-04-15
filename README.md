@@ -1,2 +1,2 @@
 # project
-个人财务记账软件
+CWXT:个人财务记账APP
